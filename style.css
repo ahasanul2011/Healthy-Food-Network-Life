@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color:gray;
+}
+h1{
+    font-size: 50px;
+}
+H2{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange
+}
+section{
+    display: flex;
+    padding-left:10%;
+}
+.half-width{
+    width:50%;
+    }
+.half-width img{
+    width:50%;
+    height: 60%
+}
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 10px;
+    border-radius: 40px; 
+}
+#line{
+    padding:10px 30px 30px 30px;
+}
+.top-banner{
+    background-image: url(images/7.png);
+}
+.recipes-ceter{
+    text-align: center;
+}
+
+.recipes-item img{
+    display: flex;
+}
+
+.buttom-color{
+     background-color: black;
+     text-align: center;
+}
+.buttom-color p{
+    color:yellow;
+}
